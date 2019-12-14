@@ -1,6 +1,6 @@
 **Curso de HTML5 e CSS3 parte 2: Posicionamento, listas e navegação**
-- [ ] Criando uma nova página
-- [ ] Navegação entre páginas
+- [x] Criando uma nova página
+- [x] Navegação entre páginas
 - [ ] Posicionamento dos elementos
 - [ ] A tag section
 - [ ] Lidando com bordas
