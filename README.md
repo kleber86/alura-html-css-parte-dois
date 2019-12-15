@@ -2,7 +2,7 @@
 - [x] Criando uma nova página
 - [x] Navegação entre páginas
 - [x] Posicionamento dos elementos
-- [ ] A tag section
-- [ ] Lidando com bordas
+- [x] A tag section
+- [x] Lidando com bordas
 - [ ] Pseudo-classes CSS
 - [ ] Finalizando a página de produtos
