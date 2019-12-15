@@ -4,5 +4,5 @@
 - [x] Posicionamento dos elementos
 - [x] A tag section
 - [x] Lidando com bordas
-- [ ] Pseudo-classes CSS
-- [ ] Finalizando a página de produtos
+- [x] Pseudo-classes CSS
+- [x] Finalizando a página de produtos
